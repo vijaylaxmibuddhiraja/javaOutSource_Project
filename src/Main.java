@@ -6,6 +6,6 @@ public class Main {
         //Skapa ett objekt i Main
 Anastasiya anastasiya = new Anastasiya();
 User user = new User("neha","neha123");
-
+Customer customer = new Customer("nitu","nitu123");
     }
 }
